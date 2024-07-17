@@ -106,7 +106,7 @@ https://www.kaggle.com/datasets/dataclusterlabs/indian-vehicle-dataset
    jupyter notebook 06_compare_and_prediction.ipynb
    ```
 ## Model Performance
-
+For Epochs -30
 | Model              | Test Accuracy (%) |
 |--------------------|-------------------|
 | VGG16              |   49.66           |
