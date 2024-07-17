@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/dataclusterlabs/indian-vehicle-dataset
 
 4. **04_inceptionv3_cuda_training**
    - This component involves training an InceptionV3 model using CUDA for faster processing.
-   - **Model Path**: `E:/Vehicle/Cuda/models/inceptionv3_cuda_model.pth`
+   - **Model Path**: `E:/Vehicle/model/inceptionv3_cuda_model.pth`
    - **Notebook**: `04_inceptionv3_cuda_training.ipynb`
 
 5. **05_resnet50_training**
