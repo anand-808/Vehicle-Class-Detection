@@ -105,6 +105,14 @@ https://www.kaggle.com/datasets/dataclusterlabs/indian-vehicle-dataset
    ```bash
    jupyter notebook 06_compare_and_prediction.ipynb
    ```
+## Model Performance
+
+| Model              | Test Accuracy (%) |
+|--------------------|-------------------|
+| VGG16              |   49.66           |
+| InceptionV3        | 53.02             |
+| InceptionV3 (CUDA) | 59.73             |
+| ResNet50           | 61.74             |
 
 ## Results
 
