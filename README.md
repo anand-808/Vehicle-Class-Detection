@@ -6,6 +6,9 @@
 
 This project aims to classify images of vehicles into different categories using deep learning models. The project consists of several components, each responsible for a specific task. The models used in this project include VGG16, InceptionV3, and ResNet50, with one variant of InceptionV3 utilizing CUDA for accelerated training.
 
+Dataset Link:
+https://www.kaggle.com/datasets/dataclusterlabs/indian-vehicle-dataset
+
 ## Project Components
 
 1. **01_data_preparation**
